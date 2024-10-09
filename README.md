@@ -1,5 +1,6 @@
 Steps to Verify Full-Wave Rectifier:
-![image](https://github.com/user-attachments/assets/87c6f117-7cae-4c9c-a6c5-1a4047e2fa7f)
+![image](https://github.com/user-attachments/assets/6065584d-f093-4d2c-968a-4b9c928a8e8e)
+
 
 https://www.tinkercad.com/things/3rRL5lAnCuf-full-wave
 
